@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foodappals/static/css/main.e6c13ad2.css",
+    "main.js": "/foodappals/static/js/main.37cac924.js",
+    "static/js/453.57dd16e6.chunk.js": "/foodappals/static/js/453.57dd16e6.chunk.js",
+    "index.html": "/foodappals/index.html",
+    "main.e6c13ad2.css.map": "/foodappals/static/css/main.e6c13ad2.css.map",
+    "main.37cac924.js.map": "/foodappals/static/js/main.37cac924.js.map",
+    "453.57dd16e6.chunk.js.map": "/foodappals/static/js/453.57dd16e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.37cac924.js"
+  ]
+}
